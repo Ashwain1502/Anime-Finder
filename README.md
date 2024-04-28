@@ -11,4 +11,4 @@ Simple Project to incorporate anime-db api and show important information on the
 5. Run the application by command - npm start.
 
 ## Working Link 
-(Click here)[https://anime-finder-plot-info.netlify.app/]
+[Click here](https://anime-finder-plot-info.netlify.app/)
