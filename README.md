@@ -10,5 +10,8 @@ Simple Project to incorporate anime-db api and show important information on the
 4. Fill your anime-db api key in app.js file in fetchme function.
 5. Run the application by command - npm start.
 
+## Link for api website:
+[Click here](https://rapidapi.com/brian.rofiq/api/anime-db/)
+
 ## Working Link 
 [Click here](https://anime-finder-plot-info.netlify.app/)
