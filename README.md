@@ -1,5 +1,5 @@
 # Anime-Finder
-Web Frontend to fetch information about anime shows.
+Web Frontend to fetch information about anime shows using anime db API.
 
 ## Function 
 Simple Project to incorporate anime-db API and show important information on the web.
