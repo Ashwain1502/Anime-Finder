@@ -10,17 +10,17 @@ Simple Project to incorporate anime-db API and show important information on the
 3. Shows plot information about a plot to get a clear idea.
 
 ## How to run the application
-1. Download the zip file
-2. Move to the folder by command - cd anime-finder
-3. Install the npm packages by command - npm install or npm i
+1. Download the zip file.
+2. Move to the folder by command - cd anime-finder.
+3. Install the npm packages by command - npm install or npm i.
 4. Fill your anime-db API key in the app.js file in the fetchme function.
 5. Run the application by command - npm start.
 
 ## Link for API website:
-[Click here](https://rapidapi.com/brian.rofiq/api/anime-db/)
+[Click here](https://rapidapi.com/brian.rofiq/api/anime-db/).
 
 ## Working Link 
-[Click here](https://anime-finder-plot-info.netlify.app/)
+[Click here](https://anime-finder-plot-info.netlify.app/).
 
 ## Contributors
-Ashwani Kumar ( ashwink1502@gmail.com )
+Ashwani Kumar ( ashwink1502@gmail.com ).
