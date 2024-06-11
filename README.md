@@ -22,5 +22,5 @@ Simple Project to incorporate anime-db API and show important information on the
 ## Working Link 
 [Click here](https://anime-finder-plot-info.netlify.app/).
 
-## Contributors
-Ashwani Kumar ( ashwink1502@gmail.com ).
+> ## Contributors
+> Ashwani Kumar (ashwink1502@gmail.com).
