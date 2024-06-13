@@ -6,7 +6,7 @@ Simple Project to incorporate anime-db API and show important information on the
 
 ## Functions Implemented
 1. Search functionality to find information about anime.
-2. Shows Image and title for the searched anime and related animes
+2. Shows Image and title for the searched anime and related animes.
 3. Shows plot information about a plot to get a clear idea.
 
 ## How to run the application
