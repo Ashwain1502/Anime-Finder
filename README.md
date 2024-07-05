@@ -2,7 +2,7 @@
 Web Frontend to fetch information about anime shows using anime db API.
 
 ## Function 
-Project to incorporate anime-db API and show important information on the web.
+Project to incorporate anime-db API and show information on the web.
 
 ## Functions Implemented
 1. Search functionality to find information about anime.
