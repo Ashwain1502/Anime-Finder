@@ -22,5 +22,5 @@ Project to incorporate anime-db API and show information on the web.
 ## Working Link for Hosted Website
 [Anime Info.](https://anime-finder-plot-info.netlify.app/).
 
-> ## Contributors
+> ### Contributors
 > Ashwani Kumar (ashwink1502@gmail.com).
