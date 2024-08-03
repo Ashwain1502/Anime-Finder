@@ -17,10 +17,10 @@ Project to incorporate anime-db API and show information on the web.
 5. Run the application by command - npm start.
 
 ## Link for API website:
-[API Link](https://rapidapi.com/brian.rofiq/api/anime-db/).
+[API Link.](https://rapidapi.com/brian.rofiq/api/anime-db/)
 
 ## Working Link for Hosted Website
-[Anime Info.](https://anime-finder-plot-info.netlify.app/).
+[Anime Info.](https://anime-finder-plot-info.netlify.app/)
 
 > ### Contributors
 > Ashwani Kumar (ashwink1502@gmail.com).
