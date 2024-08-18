@@ -19,7 +19,7 @@ Project to incorporate anime-db API and show information on the web.
 ## Link for API website:
 [API Link.](https://rapidapi.com/brian.rofiq/api/anime-db/).
 
-## Working Link for Hosted Website
+## Working Link for Hosted Website:
 [Anime Info.](https://anime-finder-plot-info.netlify.app/).
 
 > ### Contributors
